@@ -1,12 +1,12 @@
 {
-  "name": "Bakwas",
-  "short_name": "Bakwas",
+  "name": "PWA",
+  "short_name": "PWA",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/asdf/",
+  "start_url": "/Basic-PWA/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
